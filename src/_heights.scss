@@ -1,0 +1,9 @@
+$heightSizes:
+  8px, 12px, 16px, 24px, 32px, 48px, 64px, 128px, 256px, 512px,
+  100vh;
+
+@each $size in $heightSizes {
+  .h-#{$size} {
+    height: $size;
+  }
+}
