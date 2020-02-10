@@ -1,0 +1,32 @@
+$paddingSizes: 8px, 12px, 16px, 24px, 32px, 48px, 64px, 128px;
+
+/* padding */
+@each $size in $paddingSizes {
+  .p-#{$size} {
+    padding: $size;
+  }
+}
+/* padding-top */
+@each $size in $paddingSizes {
+  .pt-#{$size} {
+    padding-top: $size;
+  }
+}
+/* padding-right */
+@each $size in $paddingSizes {
+  .pl-#{$size} {
+    padding-left: $size;
+  }
+}
+/* padding-bottom */
+@each $size in $paddingSizes {
+  .pr-#{$size} {
+    padding-top: $size;
+  }
+}
+/* padding-left */
+@each $size in $paddingSizes {
+  .pt-#{$size} {
+    padding-top: $size;
+  }
+}
