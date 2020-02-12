@@ -1,4 +1,44 @@
 /* WIDTH */
+.w-8px {
+  height: 8px;
+}
+
+.w-12px {
+  height: 12px;
+}
+
+.w-16px {
+  height: 16px;
+}
+
+.w-24px {
+  height: 24px;
+}
+
+.w-32px {
+  height: 32px;
+}
+
+.w-48px {
+  height: 48px;
+}
+
+.w-64px {
+  height: 64px;
+}
+
+.w-128px {
+  height: 128px;
+}
+
+.w-256px {
+  height: 256px;
+}
+
+.w-512px {
+  height: 512px;
+}
+
 .w-10per {
   width: 10%;
 }
@@ -82,6 +122,46 @@
 
 .h-100vh {
   height: 100vh;
+}
+
+.h-10per {
+  width: 10%;
+}
+
+.h-20per {
+  width: 20%;
+}
+
+.h-30per {
+  width: 30%;
+}
+
+.h-40per {
+  width: 40%;
+}
+
+.h-50per {
+  width: 50%;
+}
+
+.h-60per {
+  width: 60%;
+}
+
+.h-70per {
+  width: 70%;
+}
+
+.h-80per {
+  width: 80%;
+}
+
+.h-90per {
+  width: 90%;
+}
+
+.h-100per {
+  width: 100%;
 }
 
 /* PADDING */
