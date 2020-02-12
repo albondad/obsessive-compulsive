@@ -1,4 +1,4 @@
-$marginSizes: 8px, 12px, 16px, 24px, 32px, 48px, 64px, 128px;
+$marginSizes: 8px, 12px, 16px, 24px, 32px, 48px, 64px, 128px, 256px;
 
 /* margin */
 @each $size in $marginSizes {
@@ -14,19 +14,19 @@ $marginSizes: 8px, 12px, 16px, 24px, 32px, 48px, 64px, 128px;
 }
 /* margin-right */
 @each $size in $marginSizes {
-  .ml-#{$size} {
-    margin-left: $size;
+  .mr-#{$size} {
+    margin-right: $size;
   }
 }
 /* margin-bottom */
 @each $size in $marginSizes {
-  .mr-#{$size} {
-    margin-top: $size;
+  .mb-#{$size} {
+    margin-bottom: $size;
   }
 }
 /* margin-left */
 @each $size in $marginSizes {
-  .mt-#{$size} {
-    margin-top: $size;
+  .ml-#{$size} {
+    margin-left: $size;
   }
 }
