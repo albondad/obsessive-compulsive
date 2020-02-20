@@ -1,42 +1,42 @@
 /* WIDTH */
 .w-8px {
-  height: 8px;
+  width: 8px;
 }
 
 .w-12px {
-  height: 12px;
+  width: 12px;
 }
 
 .w-16px {
-  height: 16px;
+  width: 16px;
 }
 
 .w-24px {
-  height: 24px;
+  width: 24px;
 }
 
 .w-32px {
-  height: 32px;
+  width: 32px;
 }
 
 .w-48px {
-  height: 48px;
+  width: 48px;
 }
 
 .w-64px {
-  height: 64px;
+  width: 64px;
 }
 
 .w-128px {
-  height: 128px;
+  width: 128px;
 }
 
 .w-256px {
-  height: 256px;
+  width: 256px;
 }
 
 .w-512px {
-  height: 512px;
+  width: 512px;
 }
 
 .w-10per {
